@@ -1,0 +1,13 @@
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\bmb.csprojAssemblyReference.cache
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\bmb.AssemblyInfoInputs.cache
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\bmb.AssemblyInfo.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\bmb.csproj.CoreCompileInputs.cache
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\bmb.RazorComponent.input.cache
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Solutions\TemporarySolutions\BMB\bmb\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
