@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Solutions\\TemporarySolutions\\BMB\\bmb\\bmb.csproj": {}
+    "C:\\Solutions\\TemporarySolutions\\BMB\\BMB\\BMB.csproj": {}
   },
   "projects": {
-    "C:\\Solutions\\TemporarySolutions\\BMB\\bmb\\bmb.csproj": {
+    "C:\\Solutions\\TemporarySolutions\\BMB\\BMB\\BMB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Solutions\\TemporarySolutions\\BMB\\bmb\\bmb.csproj",
-        "projectName": "bmb",
-        "projectPath": "C:\\Solutions\\TemporarySolutions\\BMB\\bmb\\bmb.csproj",
+        "projectUniqueName": "C:\\Solutions\\TemporarySolutions\\BMB\\BMB\\BMB.csproj",
+        "projectName": "BMB",
+        "projectPath": "C:\\Solutions\\TemporarySolutions\\BMB\\BMB\\BMB.csproj",
         "packagesPath": "C:\\Users\\ms\\.nuget\\packages\\",
-        "outputPath": "C:\\Solutions\\TemporarySolutions\\BMB\\bmb\\obj\\",
+        "outputPath": "C:\\Solutions\\TemporarySolutions\\BMB\\BMB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ms\\AppData\\Roaming\\NuGet\\NuGet.Config",
