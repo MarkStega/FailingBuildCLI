@@ -8,8 +8,7 @@ on:
     branches: [ master ]
 
 env:
-  buildPlatform: 'Any CPU'
-  buildConfiguration: 'Debug'
+  buildConfiguration: 'Release'
   output: ${{ github.workspace }}\package
   project: 'BMB\BMB.csproj'
 
